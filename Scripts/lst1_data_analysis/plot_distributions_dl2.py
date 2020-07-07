@@ -1,3 +1,9 @@
+'''
+This code makes use of the scripts and part of the Jupyter notebooks from the cta-lstchain repository: https://github.com/cta-observatory/cta-lstchain
+Copyright (c) 2018, the cta-lstchain developers All rights reserved.
+'''
+
+
 import pandas as pd
 #from lstchain.tests.test_lstchain import dl2_params_lstcam_key
 #from lstchain.io.io import dl1_params_lstcam_key

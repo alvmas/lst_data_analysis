@@ -1,3 +1,10 @@
+'''
+This code makes use of the scripts and part of the Jupyter notebooks from the cta-lstchain repository: https://github.com/cta-observatory/cta-lstchain
+Copyright (c) 2018, the cta-lstchain developers All rights reserved.
+'''
+
+
+
 #Import the different modules
 from ctapipe.io import event_source, EventSeeker
 from ctapipe.utils import get_dataset_path

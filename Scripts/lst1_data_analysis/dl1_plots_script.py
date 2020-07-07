@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+'''
+This code makes use of the scripts and part from the cta-lstchain repository: https://github.com/cta-observatory/cta-lstchain
+Copyright (c) 2018, the cta-lstchain developers All rights reserved.
+'''
 """
 Created on Tue Feb 18 11:28:58 2020
-
 @author: alvarom
 """
 
